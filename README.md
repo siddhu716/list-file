@@ -1,1 +1,2 @@
-gh repo clone danielmiessler/SecLists
+
+https://github.com/danielmiessler/SecLists.git
